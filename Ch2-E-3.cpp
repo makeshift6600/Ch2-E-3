@@ -8,8 +8,6 @@
 
 #include <iostream>
 using namespace std;
-const double stateTax = .04;
-const double countyTax = .02;
 
 int main()
 {
